@@ -35,4 +35,5 @@ O `slug` é o final da URL do problema: `leetcode.com/problems/`**`valid-parenth
 | # | Problema | Dificuldade | Solução | Status | Data |
 | --: | --- | --- | --- | :-: | --- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [solução](problems/0001-two-sum/solution.ts) | ✅ | 2026-10-20 |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [solução](problems/0009-palindrome-number/solution.ts) | 🚧 | 2026-10-21 |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | [solução](problems/2089-find-target-indices-after-sorting-array/solution.ts) | 🚧 | 2026-10-19 |

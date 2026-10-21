@@ -13,5 +13,5 @@ Para cada `nums[i]`, calcula o complemento `target - nums[i]`; se ele já estive
 
 ## Complexidade
 
-- **Tempo:** O(n)
-- **Espaço:** O(n)
+- **Tempo:** ~
+- **Espaço:** ~
