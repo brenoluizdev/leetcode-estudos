@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-estudos",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Minhas soluções diárias do LeetCode em TypeScript",
+  "engines": {
+    "node": ">=23.6"
+  },
+  "scripts": {
+    "test": "node --test \"problems/**/*.test.ts\"",
+    "new": "node scripts/new.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.0"
+  }
+}
