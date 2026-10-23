@@ -3,7 +3,7 @@
 - **Dificuldade:** Easy
 - **Link:** https://leetcode.com/problems/roman-to-integer/
 - **Tópicos:** Hash Table, Math, String
-- **Status:** 🚧 Em andamento
+- **Status:** Finalizado
 - **Tempo gasto:** 45 minutos
 
 ## Problema
